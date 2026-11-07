@@ -1,6 +1,14 @@
 # 
 Digital Library
-Selamat Datang di Perpustakaan Digital!
+
+Selamat Datang di Perpustakaan Digital Acinusary!
+
+Nama : Tri Lestari Agustina Handayani
+
+NIM : 13040124130064
+
+Kelas : B
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Knowledge Management and Academic Libraries](ebook/Knowledge Management and Academic Libraries.pdf) – Townley C.T (2001) 
@@ -16,4 +24,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Rangkuman UGC PATI](ebook/Rangkuman UGC PATI.pdf) - Tri Lestari A.H (2026)
 
 ---
+
+Enjoy ur reading, fellas!!
 *Powered by GitHub Pages*
