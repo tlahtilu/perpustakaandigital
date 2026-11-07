@@ -1,12 +1,9 @@
 # 
 Digital Library
-
 Selamat Datang di Perpustakaan Digital Acinusary!
 
 Nama : Tri Lestari Agustina Handayani
-
 NIM : 13040124130064
-
 Kelas : B
 
 Berikut ini adalah Koleksi yang dimiliki:
