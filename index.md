@@ -12,8 +12,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Pembunuhan di Rumah Miring](ebook/Pembunuhan di Rumah Miring.pdf) - Soji Shimada (2020)
 8. [Perempuan yang Menunggu di Lorong Menuju Laut](ebook/Perempuan yang Menunggu di Lorong Menuju Laut.pdf) - Dian Purnomo (2023)
 9. [Rumus Kebenaran Musim Panas](ebook/Rumus Kebenaran Musim Panas.pdf) - Keigo Higashino (2021)
-10. The Five People You Met in Heaven,Mitch Albom,2004,PDF,ebook/The Five People You Met in Heaven.pdf
-11,Rangkuman UGC PATI,Tri Lestari A.H,2026,PDF,ebook/Rangkuman UGC PATI.pdf
+10. [The Five People You Met in Heaven](ebook/The Five People You Met in Heaven.pdf) - Mitch Albom (2004)
+11. [Rangkuman UGC PATI](ebook/Rangkuman UGC PATI.pdf) - Tri Lestari A.H (2026)
 
 ---
 *Powered by GitHub Pages*
